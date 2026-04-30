@@ -6,15 +6,13 @@ used in real ecommerce and retail environments.
 **Dataset:** [UCI Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail) 
 — 541,909 transactions from a UK-based gift shop between Dec 2010 and Dec 2011.
 
-## Notebooks
-
 | # | Notebook | Topics |
 |---|---|---|
-| 01 | [EDA Overview](01_eda_overview.ipynb) | Revenue, AOV, LTV, top products, seasonality |
-| 02 | [Cohort Analysis](02_cohort_analysis.ipynb) | Customer retention by cohort |
-| 03 | [Churn Analysis](https://github.com/cguzmang/retail-analytics/blob/main/03_churn_analysis.ipynb) | Churn rate, at-risk customers |
-| 04 | A/B Testing *(coming soon)* | Statistical significance, conversion comparison |
-| 05 | Market Basket Analysis *(coming soon)* | Product associations, cross-sell |
+| 01 | [EDA Overview](notebooks/01_eda_overview.ipynb) | Revenue, AOV, LTV, top products, seasonality |
+| 02 | [Cohort Analysis](notebooks/02_cohort_analysis.ipynb) | Customer retention by cohort |
+| 03 | [Churn Analysis](notebooks/03_churn_analysis.ipynb) | Churn rate, at-risk customers |
+| 04 | [A/B Testing](notebooks/04_ab_testing.ipynb) | Statistical significance, conversion comparison |
+| 05 | [Market Basket Analysis](notebooks/05_market_basket_analysis.ipynb) | Product associations, cross-sell |
 
 ## Key Findings so far
 
