@@ -12,7 +12,7 @@ used in real ecommerce and retail environments.
 |---|---|---|
 | 01 | [EDA Overview](01_eda_overview.ipynb) | Revenue, AOV, LTV, top products, seasonality |
 | 02 | [Cohort Analysis](02_cohort_analysis.ipynb) | Customer retention by cohort |
-| 03 | Churn Analysis *(coming soon)* | Churn rate, at-risk customers |
+| 03 | [Churn Analysis](https://github.com/cguzmang/retail-analytics/blob/main/03_churn_analysis.ipynb) | Churn rate, at-risk customers |
 | 04 | A/B Testing *(coming soon)* | Statistical significance, conversion comparison |
 | 05 | Market Basket Analysis *(coming soon)* | Product associations, cross-sell |
 
